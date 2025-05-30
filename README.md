@@ -1,1 +1,1 @@
-# songahyun-gravel-rock-classification-ai-dacon-2025
+# gravel-rock-classification-ai-dacon-2025
